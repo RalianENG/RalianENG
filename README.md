@@ -3,7 +3,6 @@
 - ↓ My Social Media Accounts is HERE! ↓
 - Twitter ==> @Ralian.ENG
 - GitHub ==> @Ralian.ENG
-- Gmail ==> ralianengineering@gmail.com
 
 <!---
 RalianENG/RalianENG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
