@@ -1,6 +1,6 @@
 - HI! I'm Ralian.ENG!
 - I'm coding some Python, HTML, and CSS programs. 
-- ↓ My Social Media Accounts is HERE! ↓
+- ↓ These are my Social Media Accounts! ↓
 - Twitter ==> @Ralian.ENG
 - GitHub ==> @Ralian.ENG
 
